@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1725392702 source:c:\users\user\documents\files code\temperature_conversion_program\main.cpp
+	<iostream>
+	<limits>
+
